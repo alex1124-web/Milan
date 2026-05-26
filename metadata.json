@@ -1,0 +1,6 @@
+{
+  "name": "L'Oro di Milano",
+  "description": "An exquisite, high-end fine dining and wine cellar atelier designed in an elegant noir style, with custom digital reservation ledgers and culinary cart rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
